@@ -9,7 +9,9 @@
      * Key -> Dictionary Map Hash Table -> Value
      * Book Index; Flipping the book and going to the end to figure out where something is by certain words/topic
 * 3 Approaches to Hashing
-*  
+*  **QUIZ** Write code to find the order of something; find the frequency
+*  FInal project utilizes hash
+*  How to reverse a linked list (learn)
 
 ## In-Class Exercises
 ### Exercise 
@@ -18,8 +20,17 @@
 Include relevant code snippets discussed in the lecture
 ```java
 
-# Example Python code
-public static void main(String[] arr){
+# Recursion
+package Recursion;
+
+public class Main{
+    public static void main(String[] arr){
+        dream(0);
+    }
+
+    public static void deam(int leve;{
+        System.out.println("Readming in level " + level); //Prints forever then error (StackOVerflowError)
+    }
 }
 
 ```
@@ -33,3 +44,4 @@ public static void main(String[] arr){
 - [ ] Midterm 2 **DUE: 5/15 (Wed)**
 - [ ] Final Project - part of Final Exam points
 - [ ] Quizzes
+- [ ] Remember how to reverse a linked list
