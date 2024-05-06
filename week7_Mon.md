@@ -28,7 +28,7 @@ public class Main{
         dream(0);
     }
 
-    public static void deam(int leve;{
+    public static void dream(int leve;{
         System.out.println("Readming in level " + level); //Prints forever then error (StackOVerflowError)
     }
 }
